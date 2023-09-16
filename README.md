@@ -1,2 +1,2 @@
 # Logical-problems
-Some logic building problems for newbie developer
+Some logic building problems for newbie developers
